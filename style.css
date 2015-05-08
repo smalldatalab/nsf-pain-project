@@ -70,6 +70,16 @@ html {
 .left-img-page h1 {
   color: #5a5a5a;
   font-size: 50px;
+  text-align: left;
+}
+
+.img-side-text {
+  padding-top: 80px;
+}
+
+.more-padding {
+  padding-top: 30px;
+  padding-bottom: 20px;
 }
 
 .more-padding-h1 h1 {
@@ -78,17 +88,22 @@ html {
 
 .left-img-page h4 {
   color: #b4bcc2;
-  font-size: 40px;
+  font-size: 32px;
+  text-align: left;
+
 }
 
 .right-img-page h1 {
   color: #5a5a5a;
   font-size: 50px;
+  text-align: right;
+
 }
 
 .right-img-page h4 {
   color: #b4bcc2;
-  font-size: 40px;
+  font-size: 32px;
+  text-align: right;
 }
 
 .unit-content {
