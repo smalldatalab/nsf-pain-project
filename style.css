@@ -13,7 +13,7 @@ It would be nice if you could leave this here, thanks.
 
 html {
 	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-	text-align:center;
+	/*text-align:center;*/
 	height: 100%;
 
 }
@@ -48,7 +48,7 @@ html {
 }
 
 .right-img-page {
-	text-align: left;
+	/*text-align: left;*/
 	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	padding-top: 40px;
 	padding-bottom: 40px;
@@ -61,7 +61,7 @@ html {
 
 
 .left-img-page {
-	text-align: left;
+	/*text-align: left;*/
 	font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
 	padding-top: 40px;
 	padding-bottom: 40px;
@@ -70,7 +70,7 @@ html {
 .left-img-page h1 {
   color: #5a5a5a;
   font-size: 50px;
-  text-align: left;
+  /*text-align: left;*/
 }
 
 .img-side-text {
@@ -89,21 +89,21 @@ html {
 .left-img-page h4 {
   color: #b4bcc2;
   font-size: 32px;
-  text-align: left;
+  /*text-align: left;*/
 
 }
 
 .right-img-page h1 {
   color: #5a5a5a;
   font-size: 50px;
-  text-align: right;
+  /*text-align: right;*/
 
 }
 
 .right-img-page h4 {
   color: #b4bcc2;
   font-size: 32px;
-  text-align: right;
+  /*text-align: right;*/
 }
 
 .unit-content {
