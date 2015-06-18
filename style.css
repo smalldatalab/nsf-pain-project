@@ -107,7 +107,9 @@ html {
   /*text-align: right;*/
 
 }
-
+.cornell-tech-logo {
+  padding-top: 20px;
+}
 .right-img-page h4 {
   color: #b4bcc2;
   font-size: 32px;
